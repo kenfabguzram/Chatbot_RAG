@@ -1,4 +1,4 @@
-# **Chatbot RAG Description**
+# **Chatbot RAG**
 
 The chatbot utilizes a *Retrieve-Answer-Generate (RAG)* framework, combining tools like Hugging Face, LLaMA, and Pinecone to deliver contextually relevant and accurate responses. This system efficiently retrieves information from a vector database and generates coherent answers based on user queries.
 
